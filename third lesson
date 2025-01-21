@@ -1,0 +1,18 @@
+# a = 5
+# b = 10
+# c = a + b
+# d = b / a
+# f = a * b
+# print(c)
+# print(d)
+# print(f)
+# a = input("a")
+# print(a)
+# r = 10
+# pi = 3.14
+# r2 =  r * r
+# a = pi * 2 * r2
+# print (a)
+# name = "Tom"
+# Name = "Sam"
+# _name = "Jack"
