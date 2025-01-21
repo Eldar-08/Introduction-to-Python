@@ -1,0 +1,15 @@
+cash = float(input("How much money do you have? "))
+print("there are products we have: ")
+print("milk = 5.5")
+print("bread = 50")
+print("butter = 150")
+print("water = 35")
+print("vegetables = 250")
+print("fruits = 350")
+
+products = float(input("write price of  first product which you will buy: "))
+products2 = float(input("write price of second product which you will buy: "))
+products3 = float(input("write price of third product which you will buy: "))
+products4 = float(input("write price of fourth product which you will buy: "))
+summa = cash - products - products2 - products3 - products4
+print("you have: ",summa, "money")
