@@ -1,0 +1,8 @@
+# name = input("What is her name? ")
+# print("ouuuu her name ıs", name, "!")
+# age = input("how old ıs she? ")
+# print("very good she is", age, "years old")
+# family = input("how many brother she has? ")
+# a = input("she has " + family + " brothers? ")
+# print(a)
+# print("ok she is name is ", name, "she is ",age, "she has", family, "brothers")
